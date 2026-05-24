@@ -1,24 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.399275941933549,
-          45.843001990410535
-        ]
-      },
-      "properties": {
-        "category": "Voirie",
-        "priority": "Important",
-        "description": "voierie",
-        "author": "Cyril Glorieux",
-        "status": "nouveau",
-        "color": "blue",
-        "date": "2026-05-24T18:20:31.240453"
-      }
-    }
-  ]
+  "features": []
 }
