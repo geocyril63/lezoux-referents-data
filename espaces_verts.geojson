@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.400440696276884,
+          45.8319788792729
+        ]
+      },
+      "properties": {
+        "category": "Espaces verts",
+        "priority": "Critique",
+        "description": "bordures a tondre en urgence",
+        "author": "Cyril Glorieux",
+        "status": "nouveau"
+      }
+    }
+  ]
 }
