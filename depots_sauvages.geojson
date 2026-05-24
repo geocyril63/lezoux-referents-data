@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.390107779857066,
+          45.81958287443461
+        ]
+      },
+      "properties": {
+        "category": "Dépôts sauvages",
+        "priority": "Important",
+        "description": "",
+        "author": "Cyril Glorieux",
+        "status": "nouveau",
+        "color": "brown",
+        "date": "2026-05-24T18:20:42.546368"
+      }
+    }
+  ]
+}
