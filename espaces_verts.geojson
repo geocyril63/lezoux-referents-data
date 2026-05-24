@@ -19,6 +19,23 @@
         "color": "green",
         "date": "2026-05-24T18:21:13.626492"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4002762460786644,
+          45.83182160241426
+        ]
+      },
+      "properties": {
+        "category": "Espaces verts",
+        "priority": "Critique",
+        "description": "bordure urgente a tondre",
+        "author": "Cyril Glorieux",
+        "status": "nouveau"
+      }
     }
   ]
 }
