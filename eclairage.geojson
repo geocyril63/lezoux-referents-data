@@ -1,24 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.385411108615344,
-          45.84527985497364
-        ]
-      },
-      "properties": {
-        "category": "Éclairage",
-        "priority": "Critique",
-        "description": "test eclairage",
-        "author": "Cyril Glorieux",
-        "status": "nouveau",
-        "color": "yellow",
-        "date": "2026-05-24T18:19:46.521069"
-      }
-    }
-  ]
+  "features": []
 }
