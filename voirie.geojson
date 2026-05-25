@@ -17,6 +17,23 @@
         "author": "Cyril Glorieux",
         "status": "nouveau"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3914032542182113,
+          45.83344648454869
+        ]
+      },
+      "properties": {
+        "category": "Voirie",
+        "priority": "Important",
+        "description": "réfection virage de l'impasse remontée par Dominique Verger.",
+        "author": "Cyril Glorieux",
+        "status": "nouveau"
+      }
     }
   ]
 }
