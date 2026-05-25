@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3795975214678595,
+          45.82608168169246
+        ]
+      },
+      "properties": {
+        "category": "Éclairage",
+        "priority": "Critique",
+        "description": "plus d'allumage éclairage public depuis des semaines",
+        "author": "Cyril Glorieux",
+        "status": "nouveau"
+      }
+    }
+  ]
 }
