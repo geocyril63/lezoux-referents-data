@@ -17,6 +17,23 @@
         "author": "Cyril Glorieux",
         "status": "nouveau"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3795405,
+          45.8282921
+        ]
+      },
+      "properties": {
+        "category": "Éclairage",
+        "priority": "Important",
+        "description": "",
+        "author": "Cyril Glorieux",
+        "status": "nouveau"
+      }
     }
   ]
 }
