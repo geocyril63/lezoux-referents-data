@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3795405,
+          45.8282921
+        ]
+      },
+      "properties": {
+        "category": "Dépôts sauvages",
+        "priority": "Important",
+        "description": "poubelles devant le lido",
+        "author": "Cyril Glorieux",
+        "status": "nouveau"
+      }
+    }
+  ]
 }
